@@ -1,3 +1,3 @@
 # Basic Calculator
 
-A basic calculator was built base on Java. This program can practice plus, minus, multiply and exponent.
+A basic calculator was built base on Java. This program can practice addition, substraction, multiplication, division, power and root. You can 
